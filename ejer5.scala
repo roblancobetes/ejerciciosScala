@@ -11,10 +11,12 @@
         .map(palabra => (palabra, palabra.length))
         .toMap
 
+    mapaConteo.foreach{case (palabra, apariciones) => println(s"Palabra: $palabra, apariciones: $apariciones")}
+
     val suma = mapaConteo
         .foldLeft(0){ case (acc, (palabra, longitud))
          => acc + longitud}
 
-    
+    println(s"La suma es $suma.")
 
 }

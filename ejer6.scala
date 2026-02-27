@@ -30,5 +30,38 @@
         .mapValues(_.size)
         .toMap
 
+    //Alternativa usando groupMapReduce
     val conteo2 = palabras.groupMapReduce(identity)(_ => 1)(_ + _)
+
+    //Media de palabras por frase (suma de todas las palabras entre número de frases)
+    val frases = texto.map(_.split("[\\s.,;:]+"))
+    val media = frases.map(_.size).sum.toDouble/frases.size
+
+    println(s"La media de palabras por frase es: $media.")
+
+    //alternativa (sin val frases): val media = palabras.size.toDouble/texto.size
+
+    //Palabras más frecuentes
+    val top2 = conteo
+        .toSeq
+        .sortBy{case(_, valor) => -valor}
+        .take(2)
+
+    println("Las palabras más frecuentes son:")
+    top2.foreach{case (palabra, apariciones) => println(s"$palabra, que aparece $apariciones veces.")}
+
+    //Frases que contienen Scala
+    val numFrasesScala = frases
+        .filter(frase => (frase.contains("scala") || frase.contains("Scala")))
+        .size
+    println(s"El número de frases que contienen \"scala\" es: $numFrasesScala.")
+
+    //Agrupar por primera letra
+    val mapaPrimeraLetra = palabras.groupBy(_(0).toUpper).mapValues(_.distinct)
+
+    println("Según la primera letra, las palabras que aparecen son:")
+    mapaPrimeraLetra.foreach{case (caracter, lista) => 
+        println(s"Con el carácter $caracter empiezan las palabras ${lista.mkString(", ")}")
+        }
+
 }
