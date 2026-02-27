@@ -1,3 +1,19 @@
+error id: file:///C:/Users/RodrigoBlanco(AlfaFo/Desktop/ejerciciosScala/ejer8.scala:local6
+file:///C:/Users/RodrigoBlanco(AlfaFo/Desktop/ejerciciosScala/ejer8.scala
+empty definition using pc, found symbol in pc: 
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+	 -palabra.
+	 -palabra#
+	 -palabra().
+	 -scala/Predef.palabra.
+	 -scala/Predef.palabra#
+	 -scala/Predef.palabra().
+offset: 2149
+uri: file:///C:/Users/RodrigoBlanco(AlfaFo/Desktop/ejerciciosScala/ejer8.scala
+text:
+```scala
 import java.time.{Instant, ZoneId, ZonedDateTime}
 import java.time.DayOfWeek
 
@@ -44,22 +60,7 @@ import java.time.DayOfWeek
       .take(2)
 
     println("Las acciones más frecuentes son:")
-    top2Acciones.foreach{case (accion, apariciones) => println(s"$accion, que aparece $apariciones veces.")}
-
-    //Acciones más frecuentes por usuario
-    val topAccionesUsuario = listaEventos
-        .groupBy(_.usuario)
-        .mapValues(_.groupBy(_.accion)
-                    .mapValues(_.size)
-                    .toSeq
-                    .sortBy(-_._2)
-                    .map(_._1)
-                    .apply(0))
-        
-
-    println("Las acciones más frecuentes por usuario son:")
-    topAccionesUsuario.foreach{case (usuario, accion) =>
-      println(s"Usuario: $usuario, acción preferida: $accion.")}
+    top2Acciones.foreach{case (accion, apariciones) => println(s"$pal@@abra, que aparece $apariciones veces.")}
 
 }
 
@@ -76,3 +77,9 @@ def momentoDelDia(timestampMillis: Long, zoneId: ZoneId = ZoneId.systemDefault()
 }
 
 case class Evento(usuario: String, accion: String, ts: Long)
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: 

@@ -23,7 +23,22 @@
         Producto("Cámara Canon EOS", "Electrónica", 849.99, 0)
         )
 
+    val disponibles = productos.filter(_.stock > 0)
+    
+    //Agrupar por categoría
+    val gruposCategorias = productos.groupBy(_.categoria)
 
+    val productosMasCaros = gruposCategorias
+        .mapValues(lista => lista.sortBy(-_.precio))
+        .mapValues(_(0))
+
+    val precioMedio = gruposCategorias
+        .mapValues(_.map(_.precio))
+        .mapValues(lista => lista.sum.toDouble/lista.size)
+
+    gruposCategorias.foreach{ case (categoria, _) => 
+        println(s"$categoria, Top: ${productosMasCaros(categoria).nombre}" +
+        s", Media: ${precioMedio(categoria)}")}
 }
 
 case class Producto(nombre: String, categoria: String, precio: Double, stock: Int)

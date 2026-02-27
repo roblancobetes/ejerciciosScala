@@ -923,3 +923,248 @@ WARNING: Unmatched cancel notification for request id 5930
 2026.02.27 11:57:06 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
 2026.02.27 11:57:06 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
 2026.02.27 11:57:06 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.26s
+2026.02.27 11:58:52 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 11:58:52 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.41s
+2026.02.27 11:59:38 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 11:59:38 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.28s
+feb 27, 2026 12:01:37 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7111
+feb 27, 2026 12:01:51 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7124
+feb 27, 2026 12:13:37 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7300
+2026.02.27 12:13:40 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:13:40 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.27s
+2026.02.27 12:14:08 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:14:08 INFO  time: compiled ejerciciosScala_d5c0a6989e in 87ms
+2026.02.27 12:14:19 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:14:19 INFO  time: compiled ejerciciosScala_d5c0a6989e in 99ms
+2026.02.27 12:14:22 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:14:22 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.25s
+2026.02.27 12:14:38 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:14:38 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.02.27 12:14:38 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.24s
+feb 27, 2026 12:14:59 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7708
+2026.02.27 12:15:03 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:15:03 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.02.27 12:15:03 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.24s
+2026.02.27 12:15:09 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:15:09 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.02.27 12:15:09 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.23s
+2026.02.27 12:15:54 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:15:54 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:15:54 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.28s
+2026.02.27 12:16:12 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:16:12 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:16:12 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.25s
+2026.02.27 12:16:38 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:16:38 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.17s
+2026.02.27 12:16:44 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:16:44 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.49s
+2026.02.27 12:16:49 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:16:49 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.15s
+2026.02.27 12:17:00 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:17:00 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:17:00 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.29s
+2026.02.27 12:17:09 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:17:09 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:17:09 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.26s
+2026.02.27 12:17:15 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:17:15 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:17:15 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.25s
+2026.02.27 12:17:44 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:17:44 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:17:44 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.25s
+2026.02.27 12:18:32 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:18:32 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:18:32 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.29s
+2026.02.27 12:18:38 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:18:38 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:18:38 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.25s
+2026.02.27 12:19:13 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:19:13 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:19:13 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.27s
+2026.02.27 12:23:47 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:23:47 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.25s
+2026.02.27 12:24:00 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:24:00 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.22s
+2026.02.27 12:24:05 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:24:05 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.22s
+2026.02.27 12:24:48 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:24:48 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.13s
+2026.02.27 12:24:53 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:24:53 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.02.27 12:24:53 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.24s
+2026.02.27 12:25:15 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:25:15 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.02.27 12:25:15 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.21s
+2026.02.27 12:25:35 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:25:35 INFO  time: compiled ejerciciosScala_d5c0a6989e in 93ms
+2026.02.27 12:25:35 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+feb 27, 2026 12:25:35 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9650
+2026.02.27 12:25:36 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:25:39 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:25:45 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:25:46 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:25:46 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:25:47 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:25:47 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:25:50 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:25:53 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:25:56 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:25:56 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:26:00 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:26:00 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:26:02 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:26:03 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:26:04 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:26:07 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:26:07 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:26:08 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:26:11 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:26:11 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:26:12 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:26:12 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:26:12 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.02.27 12:26:12 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.26s
+2026.02.27 12:26:22 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:26:22 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.02.27 12:26:22 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.22s
+2026.02.27 12:27:36 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:27:36 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.02.27 12:27:36 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.24s
+2026.02.27 12:27:43 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:27:43 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.02.27 12:27:43 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.21s
+2026.02.27 12:30:28 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:30:28 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2026.02.27 12:30:28 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.26s
+feb 27, 2026 12:30:31 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10561
+2026.02.27 12:32:13 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:32:13 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:32:13 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.28s
+2026.02.27 12:32:18 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:32:18 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:32:18 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.23s
+2026.02.27 12:32:49 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:32:49 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:32:49 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.25s
+2026.02.27 12:33:02 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:33:02 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:33:02 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.22s
+2026.02.27 12:34:13 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:34:13 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:34:13 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.27s
+2026.02.27 12:34:48 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\.metals\.reports\metals-full\2026-02-26\r_empty-definition_(ejerciciosScala_5fd5c0a6989e)_12-50-49-530.md")
+2026.02.27 12:34:48 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:34:48 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:34:48 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.28s
+2026.02.27 12:34:52 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:34:52 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:34:52 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.23s
+2026.02.27 12:34:57 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:34:57 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.15s
+2026.02.27 12:35:00 INFO  Created report: Optional[file:///C:/Users/RodrigoBlanco(AlfaFo/Desktop/ejerciciosScala/ejer8.scala]
+2026.02.27 12:35:00 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\.metals\.reports\metals-full\2026-02-27\r_empty-definition_(ejerciciosScala_5fd5c0a6989e)_12-35-00-960.md")
+2026.02.27 12:35:01 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:35:01 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:35:01 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.33s
+2026.02.27 12:36:26 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:36:26 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:36:26 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.28s
+2026.02.27 12:37:19 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:37:19 WARN  there were 3 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:37:19 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.28s
+2026.02.27 12:39:07 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:39:07 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.42s
+2026.02.27 12:39:12 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:39:12 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.33s
+2026.02.27 12:39:18 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:39:18 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.14s
+2026.02.27 12:39:27 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:39:27 WARN  there were 3 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:39:27 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.24s
+2026.02.27 12:39:37 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:39:37 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.33s
+2026.02.27 12:39:45 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:39:45 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.16s
+2026.02.27 12:40:23 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:40:23 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.16s
+2026.02.27 12:40:41 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:40:41 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.15s
+2026.02.27 12:40:44 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:40:44 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.15s
+2026.02.27 12:40:47 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:40:47 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.15s
+feb 27, 2026 12:40:49 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12320
+2026.02.27 12:41:13 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:41:13 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.14s
+2026.02.27 12:45:30 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:45:30 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.51s
+2026.02.27 12:45:37 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:45:37 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.37s
+2026.02.27 12:45:45 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:45:45 WARN  there were 4 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:45:45 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.24s
+2026.02.27 12:46:20 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:46:20 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.12s
+2026.02.27 12:46:28 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:46:28 WARN  there were 4 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:46:28 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.26s
+2026.02.27 12:46:30 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:46:30 WARN  there were 4 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:46:30 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.27s
+feb 27, 2026 12:46:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13263
+2026.02.27 12:46:49 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:46:49 WARN  there were 4 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:46:49 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.24s
+2026.02.27 12:46:51 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:46:51 WARN  there were 4 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:46:51 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.26s
+feb 27, 2026 12:47:08 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13508
+2026.02.27 12:47:11 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:47:11 WARN  there were 4 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:47:11 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.23s
+2026.02.27 12:47:39 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:47:39 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.35s
+2026.02.27 12:47:39 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:47:41 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:47:42 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:47:43 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:47:43 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:47:44 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:47:44 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:47:46 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:47:47 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:47:48 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:47:48 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:47:48 WARN  Could not load snapshot text for C:\Users\RodrigoBlanco(AlfaFo\Desktop\ejerciciosScala\ejer8.scala
+2026.02.27 12:47:49 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:47:49 WARN  there were 4 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:47:49 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.23s
+2026.02.27 12:54:59 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 12:54:59 WARN  there were 4 deprecation warnings; re-run with -deprecation for details
+2026.02.27 12:54:59 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.32s
+feb 27, 2026 1:10:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14040
+2026.02.27 13:10:53 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 13:10:53 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.16s
+2026.02.27 13:10:58 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 13:10:58 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.16s
+2026.02.27 13:11:10 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 13:11:10 WARN  there were 4 deprecation warnings; re-run with -deprecation for details
+2026.02.27 13:11:10 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.26s
+2026.02.27 13:11:35 INFO  compiling ejerciciosscala_d5c0a6989e (1 scala source)
+2026.02.27 13:11:35 WARN  there were 4 deprecation warnings; re-run with -deprecation for details
+2026.02.27 13:11:35 INFO  time: compiled ejerciciosScala_d5c0a6989e in 0.23s
+2026.02.27 13:24:08 INFO  Shutting down server
+2026.02.27 13:24:08 INFO  Memory monitor stopped
+2026.02.27 13:24:08 INFO  shutting down Metals
+2026.02.27 13:24:08 INFO  Shut down connection with build server.
+2026.02.27 13:24:08 INFO  Exiting server
